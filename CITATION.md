@@ -33,3 +33,8 @@ Stephen Siecinski, Ph.D.
 - **Duke UPGG Student Seminar Series:** Evaluating the EAE Mouse Model for Multiple Sclerosis: A Comparative Analysis of miRNA and Gene Expression During Clinical Progression. *Duke University* (2016).
 
 
+# Awards & Fellowships
+
+- 2018 - Duke University Graduate School: Conference Travel Award
+- 2017 - Duke University School of Medicine: [Duke Scholar in Molecular Medicine](https://ctsi.duke.edu/career-development/duke-scholars-molecular-medicine/dsmm-track-neuroscience)
+- 2016 - Autism Speaks: [Weatherstone Fellow](https://www.autismspeaks.org/node/160779)
